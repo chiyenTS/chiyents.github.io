@@ -44,3 +44,9 @@ Specialized in sparse, low sample size, high dimensional data analysis for diffe
 Science communications, presenting data as dashboards such as R/Shiny and Microsoft office.
 
 Strong science communications skill with non-data scientist.
+
+## [Example Projects](about.qmd)
+
+## [Resume](2025_CYTSENG_RESUME_GOV_public.pdf)
+
+
