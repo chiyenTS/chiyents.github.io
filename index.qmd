@@ -15,11 +15,11 @@ about:
       href: https://www.linkedin.com/in/chiyentseng
 ---
 
-Chi Yen Tseng is the Postdoc/ lead data scientist / applied statistician at Mass Spectrometry Center for Integrated Omics, Biochemistry and Technology, Los Alamos National Laboratory. 
+Chi Yen Tseng is the Postdoc/ lead data scientist / applied statistician at Mass Spectrometry Center for Integrated Omics, Biochemistry and Technology, Los Alamos National Laboratory.
 
 A multidisciplinary data scientist/applied statistician with expertise in experimental data, modeling, bioinformatics, chemistry, toxicology, and science communication.
 
-#### \~Open To Work\~
+### [Open To Work]{.underline}
 
 When not analyzing, Chi Yen enjoys spending time with his 4 yr old, cooking, and hiking.
 
@@ -48,5 +48,3 @@ Strong science communications skill with non-data scientist.
 ## [Example Projects](about.qmd)
 
 ## [Resume](2025_CYTSENG_RESUME_GOV_public.pdf)
-
-
