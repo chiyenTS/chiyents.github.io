@@ -1,0 +1,13 @@
+---
+title: "Example Projects"
+---
+
+-   [Probabilistic Modeling and Functional Clustering in Multi-Omics Data Integration](./ASMS_poster_2025_CT_final.pdf)
+
+-   [Multi-omics Data Preprocessing and Functional Clustering](./Coda%20poster_2025_CT.pdf)
+
+-   [Multi-omics responses in tree swallow (Tachycineta bicolor) nestlings from the Maumee Area of Concern, Maumee River, Ohio](https://chiyents.github.io/Maumee_MS/)
+
+-   [Integrated analysis and modeling of contaminant mixtures and transcriptomic responses in Tree Swallow (Tachycineta bicolor) nestlings in the Great Lakes](https://chiyents.github.io/GLRI_MS2/)
+
+![](./Tree_swallow_intro.png)

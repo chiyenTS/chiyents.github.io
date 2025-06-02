@@ -1,0 +1,46 @@
+---
+title: "Chi Yen Tseng"
+about:
+  template: trestles
+  image: profile.jpg
+  links:
+    - icon: Email
+      text: Email
+      href: mailto:chiyen_tseng@lanl.gov
+    - icon: github
+      text: Github
+      href: https://github.com/chiyenTS
+    - icon: LinkedIn
+      text: LinkedIn
+      href: https://www.linkedin.com/in/chiyentseng
+---
+
+Chi Yen Tseng is the Postdoc/ lead data scientist / applied statistician at Mass Spectrometry Center for Integrated Omics, Biochemistry and Technology, Los Alamos National Laboratory. 
+
+A multidisciplinary data scientist/applied statistician with expertise in experimental data, modeling, bioinformatics, chemistry, toxicology, and science communication.
+
+#### \~Open To Work\~
+
+When not analyzing, Chi Yen enjoys spending time with his 4 yr old, cooking, and hiking.
+
+## Experience
+
+Postdoc at Mass Spectrometry Center for Integrated Omics, Los Alamos National Laboratory \| Data Scientist / Applied statistician \| June 2023 – Present
+
+U.S. Geological Survey Contractor \| Jan 2021 – Sep 2022
+
+Graduate Research Assistant at Baylor University \| 2014 - 2023
+
+## Core Skills
+
+Bayesian statistics for data simulation, modeling, and uncertainty quantification. R, RStudio, and HPC for data cleaning, transformation, integration, statistical analysis, and data visualization.
+
+Machine Learning (Caret, randomForest, Statistical learning, sparse methods for classification and regression, Decision trees, Boosting, SVM, Clustering) to determine biomarker.
+
+Developing AI-ML, Retrieval-Augmented Generation (RAG) for large language model (LLM)s-based data/ metadata management strategy and graph database building (Python).
+
+Specialized in sparse, low sample size, high dimensional data analysis for differentiated features identification and data mining. Developing statistical methods, pipelines, tools, and workflow.
+
+Science communications, presenting data as dashboards such as R/Shiny and Microsoft office.
+
+Strong science communications skill with non-data scientist.

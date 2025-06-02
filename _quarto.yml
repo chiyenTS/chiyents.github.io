@@ -1,0 +1,21 @@
+project:
+  type: website
+
+website:
+  title: ""
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - about.qmd
+      - href: 2025_CYTSENG_RESUME_GOV_public.pdf 
+        text: Resume
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+editor: visual
+
